@@ -1,26 +1,26 @@
 "use script";
 const tabVille=[
-	"Danik",
-	"Laura",
-	"Samantha"
+	"Simon",
+	"arnaud",
+	"max"
 ]
 
 const tabFam=[
-	"Côté",
-	"Jean",
-	"Roland"
+	"Rou",
+	"ok",
+	"Ayot"
 ]
 
 const tabTell=[
-	"450-666-6666",
-	"514-777-7777",
-	"968-888-8888"
+	"450",
+	"514",
+	"968"
 ]
 
 const tabDomaine=[
-	"danik@gmail.com",
-	"laura@videotron.ca",
-	"samantha@yahoo.com"
+	"gmail.com",
+	"videotron.ca",
+	"yahoo.com"
 
 ]
 
