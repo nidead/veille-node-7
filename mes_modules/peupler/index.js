@@ -30,10 +30,10 @@ const peupler=()=>{
 	let fam = tableau.tabFam[position]
 	
 	Membre={
-		"ville":ville,
-		"fam":fam,
-		"tell":tell,
-		"domaine":domaine		
+		"Prenom":ville,
+		"Nom":fam,
+		"Telephone":tell,
+		"Courriel":domaine		
 	}
 
 	tabPerso.push(Membre);
